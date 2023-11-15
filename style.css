@@ -1,0 +1,12 @@
+header {
+    font-style: italic;
+}
+
+main {
+    color: blueviolet;
+}
+
+footer {
+    font-style: oblique;
+    font-size: small;
+}
